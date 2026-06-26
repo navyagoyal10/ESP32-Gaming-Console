@@ -25,8 +25,11 @@ This project is a fully functional, standalone hardware and software gaming syst
 
 ## 📷 Hardware & Visual Assets
 
-* **Enclosure Design:** Custom yellow 3D-printed shell with "BLAZE CORE" branding.
-* **Circuit Assembly:** Hand-soldered perfboard integrating ESP32, TFT screen, micro-switches, and power modules.
+| Web Gamepad UI | Bare Board Assembly | Final Enclosure (Blaze Core) |
+| :---: | :---: | :---: |
+| ![Web Interface](assets/WhatsApp_Image_2025-11-15_at_10.20.09.jpeg) | ![Circuit](assets/WhatsApp_Image_2025-11-15_at_10.50.32.jpeg) | ![Enclosure](assets/WhatsApp_Image_2025-11-15_at_10.54.50.jpeg) |
+
+* **Official Project Exhibition Video:** [Watch the Blaze Core Exhibition & Gameplay Demo on YouTube](https://www.youtube.com/watch?v=ppUA_ruJNzk)
 * **Gameplay Operations:** Standalone local multiplayer server-client operations supporting 12 retro game modes (Snake, Pong, Flappy Bird, Geometry, Pac-man, Tetris, Multiplayer variants, and Casino games).
 
 ## ⚙️ Installation & Setup
