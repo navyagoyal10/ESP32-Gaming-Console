@@ -59,4 +59,4 @@ This project is a fully functional, standalone hardware and software gaming syst
 2. Navigate the boot splash screen and main game selection menu using physical tactile push buttons (Edge-detected inputs prevent repeat triggers).
 3. Select any game (e.g., *Snake*, *Pong*, *Tetris*, *Pac-Man*) using the "A" button to launch.
 4. For local multiplayer titles, alternate between physical controllers (P1) and the WebSocket BlazeCore Webpad (P2). 
-5. Press the "SELECT" button at any point within an application to return directly to the main arcade menu.
+5. Press the "SELECT" button at any point within an application to return directly to the main arcade menu. 
